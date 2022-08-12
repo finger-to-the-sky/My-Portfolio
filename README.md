@@ -6,7 +6,7 @@
 # Content
 
 - [Обо мне](#It's_me)
-- [Мой стек](#Стек)
+- [Мой stack](#Stack)
 - [Мой путь](#Путь)
 - [Мои работы](#Работы)
 - <b>Социальные Сети</b>:
@@ -31,7 +31,7 @@
 
 
 
-# Стек
+# Stack
 
 - Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
 - <b>Запланированно изучить:</b> Django Rest, FastApi, asyncio, Flask и много других интересных технологий.
