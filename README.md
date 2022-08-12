@@ -33,7 +33,7 @@
 
 # Stack
 
-- Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Scrapy, Django.<br>
+- Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
 - <b>Запланированно изучить:</b> Django Rest, FastApi, asyncio, Flask и много других интересных технологий.
 
 
