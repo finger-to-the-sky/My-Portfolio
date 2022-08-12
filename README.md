@@ -5,10 +5,10 @@
 
 # Content
 
-- [Обо мне](#About)
-- [Мой стек](#Stack)
-- [Мой путь](#Path)
-- [Мои работы](#Works)
+- [Обо мне](#Обо мне)
+- [Мой стек](#Мой стек)
+- [Мой путь](#Мой путь)
+- [Мои работы](#Мои работы)
 - <b>Социальные Сети</b>:
 
 <a href="https://www.linkedin.com/in/maxim-zaghreba-6636a0231/"><img src="https://cdn-icons-png.flaticon.com/32/145/145807.png"><a/>
@@ -17,12 +17,12 @@
 <a href="https://www.facebook.com/profile.php?id=100028229644209"><img src="https://cdn-icons-png.flaticon.com/32/1384/1384053.png"><a/>
 
 
-# About 
+# Обо мне
 
 - Мне 23
 - Образование среднее-спецальное(не IT)
 - Опыта работы в IT пока нет
-- Записался на курс GeekBrains по Python-разработке в Ноябре 2021-го года
+- Записался на курс GeekBrains по Python-разработке в Ноябре 2021-ом году
 - Увлекаюсь Calisthenics - вид спорта основанный на работе с собственным весом. И StreetLifting.
 - С интересом изучаю новые технологии
 - Есть свои цели и я сделаю все, чтобы их добиться
@@ -31,14 +31,14 @@
 
 
 
-# Stack
+# Мой стек
 
 - Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
 - <b>Запланированно изучить:</b> Django Rest, FastApi, asyncio, Flask и много других интересных технологий.
 
 
 
-# Path
+# Мой путь
 
 - C Ноября по Декабрь: Вводные курсы
 - C Декабря по Февраль: <a href='https://drive.google.com/file/d/1SDKgSSX7E5KNRFqblBbqHfkghNs22re2/view'>Основы языка Python</a>
@@ -50,10 +50,10 @@
 
 - С Июля по Август: Методы сбора и обработки информации из сети Интернет
 - С 02 Августа по 12 Августа: Основы Django | <a href="https://github.com/finger-to-the-sky/geekshop-server">Реализовал проект "Интернет-магазин GeekShop"</a>
-- С 11 августа: началось обучение по основному курсу и сейчас прохожу Интерактивный Курс HTML/CSS
+- С 11 августа: началось обучение по основному курсу и сейчас прохожу Интерактивный Курс HTML/CSS | Так же начинаю изучать DjangoREST | А еще же прохожу курс по Компьютерные сети
 
 
-# Works
+# Мои работы
 
 - <a href="https://github.com/finger-to-the-sky/Algorithms">Процесс изучения Алгоритмов</a>
 - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс изучения Методов сбора и обработки информации из сети Интернет</a>
