@@ -1,7 +1,5 @@
 # Python-Разработчик
-<p> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEi9PONVsZqlg/
-profile-displayphoto-shrink_800_800/0/1660300538411?e=1665619200&v=beta&t=
-VfOQPL3Oh1bjx-Ya0CDjsTwijKms_ICBIlS3-Jw-h-k"></p>
+<p> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEi9PONVsZqlg/profile-displayphoto-shrink_800_800/0/1660300538411?e=1665619200&v=beta&t=VfOQPL3Oh1bjx-Ya0CDjsTwijKms_ICBIlS3-Jw-h-k"></p>
 <p>Привет! Меня зовут Максим Загреба!
 И я человек, который станет senior-разработчиком!</p>
 
@@ -21,7 +19,7 @@ VfOQPL3Oh1bjx-Ya0CDjsTwijKms_ICBIlS3-Jw-h-k"></p>
 - Увлекаюсь Calisthenics - вид спорта основанный на работе с собственным весом. И StreetLifting.
 - Образование среднее-спецальное(не IT)
 - Опыта работы в IT пока нет
-- Записался на курс GeekBrains по Python-разработке с Ноября 2021-го года
+- Записался на курс GeekBrains по Python-разработке в Ноября 2021-го года
 - С интересом изучаю новые технологии
 - Есть свои цели и я сделаю все, чтобы их добиться
 - Ну, а остальное уже когда будем знакомы
