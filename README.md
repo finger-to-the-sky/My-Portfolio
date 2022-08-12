@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/profile.php?id=100028229644209"><img src="https://cdn-icons-png.flaticon.com/32/1384/1384053.png"><a/>
 
 
-# Обо мне
+# It's_me
 
 - Мне 23
 - Образование среднее-спецальное(не IT)
