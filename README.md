@@ -10,8 +10,6 @@
 - [Мой путь](#Path)
 - [Мои работы]()
 
-<p> <img src="https://gb.ru/streams/36846/feedbacks/new?utm_referrer=https%3A%2F%2Fgb.ru%2Flessons%2F201359#"> </p>
-
 
 # About 
 
@@ -33,7 +31,7 @@ Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Scrapy, 
 # Path
 
 - C Ноября по Декабрь: Вводные курсы
-- C Декабря по Февраль: Основы Python
+- C Декабря по Февраль: <a href="">Основы Python</a>
 - C Февраля по Март: Linux. Рабочая станция
 - С Марта по Май: Основы реляционных баз данных MySQL | В это же время, я самостоятельно изучал фреймворк aiogram
 - С Мая по Июнь: Алгоритмы и Структуры данных Python | Курс по HTML/CSS
