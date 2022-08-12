@@ -1,7 +1,7 @@
 # Python-Разработчик
 <p> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEi9PONVsZqlg/profile-displayphoto-shrink_800_800/0/1660300538411?e=1665619200&v=beta&t=VfOQPL3Oh1bjx-Ya0CDjsTwijKms_ICBIlS3-Jw-h-k" alt="Фото"></p>
-<p>Привет! Меня зовут Максим Загреба!
-И я человек, который станет senior-разработчиком!</p>
+<p><b>Привет! Меня зовут Максим Загреба!
+И я человек, который станет senior-разработчиком!</b></p>
 
 # Content
 
@@ -9,7 +9,7 @@
 - [Мой стек](#Stack)
 - [Мой путь](#Path)
 - [Мои работы](#Works)
-- Социальные Сети:
+- <b>Социальные Сети</b>:
 
 <a href="https://www.linkedin.com/in/maxim-zaghreba-6636a0231/"><img src="https://cdn-icons-png.flaticon.com/32/145/145807.png"><a/>
 <a href="https://t.me/ZagMakk"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111646.png"><a/>
@@ -20,10 +20,9 @@
 # About 
 
 - Мне 23
-
 - Образование среднее-спецальное(не IT)
 - Опыта работы в IT пока нет
-- Записался на курс GeekBrains по Python-разработке в Ноября 2021-го года
+- Записался на курс GeekBrains по Python-разработке в Ноябре 2021-го года
 - Увлекаюсь Calisthenics - вид спорта основанный на работе с собственным весом. И StreetLifting.
 - С интересом изучаю новые технологии
 - Есть свои цели и я сделаю все, чтобы их добиться
@@ -34,8 +33,8 @@
 
 # Stack
 
-Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Scrapy, Django.<br>
-Запланированно изучить: Django Rest, FastApi, asyncio, Flask и много других интересных технологий.
+- Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Scrapy, Django.<br>
+- <b>Запланированно изучить:</b> Django Rest, FastApi, asyncio, Flask и много других интересных технологий.
 
 
 
