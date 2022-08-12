@@ -11,7 +11,7 @@
 - [Мои работы](#Works)
 - Социальные Сети:
 
-<a href="https://www.linkedin.com/in/maxim-zaghreba-6636a0231/"><img src="https://cdn-icons-png.flaticon.com/32/145/145807.png"><a/>
+<a href="https://www.linkedin.com/in/maxim-zaghreba-6636a0231/"target="_blank"><img src="https://cdn-icons-png.flaticon.com/32/145/145807.png"><a/>
 <a href="https://t.me/ZagMakk"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111646.png"><a/>
 <a href="https://www.instagram.com/maksim_zaghreba/"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111463.png"><a/>
 <a href="https://www.facebook.com/profile.php?id=100028229644209"><img src="https://cdn-icons-png.flaticon.com/32/1384/1384053.png"><a/>
