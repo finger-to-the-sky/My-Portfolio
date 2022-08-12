@@ -1,7 +1,7 @@
 # Python-Разработчик
 <p> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEi9PONVsZqlg/profile-displayphoto-shrink_800_800/0/1660300538411?e=1665619200&v=beta&t=VfOQPL3Oh1bjx-Ya0CDjsTwijKms_ICBIlS3-Jw-h-k" alt="Фото"></p>
 <p><b>Привет! Меня зовут Максим Загреба!
-И я человек, который станет senior-разработчиком!</b></p>
+И я человек, который станет Senior-разработчиком!</b></p>
 
 # Content
 
@@ -34,7 +34,7 @@
 # Stack
 
 - Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
-- <b>Запланированно изучить:</b> Django Rest, FastApi, asyncio, Flask и много других интересных технологий.
+- <b>Запланированно изучить:</b> Django REST Framework, FastApi, asyncio, Flask и много других интересных технологий.
 
 
 
@@ -50,7 +50,7 @@
 
 - С Июля по Август: Методы сбора и обработки информации из сети Интернет
 - С 02 Августа по 12 Августа: Основы Django | <a href="https://github.com/finger-to-the-sky/geekshop-server">Реализовал проект "Интернет-магазин GeekShop"</a>
-- С 11 августа: началось обучение по основному курсу и сейчас прохожу Интерактивный Курс HTML/CSS | Так же начинаю изучать DjangoREST | А еще прохожу курс Компьютерные сети
+- С 11 августа: началось обучение по основному курсу и сейчас прохожу Интерактивный Курс HTML/CSS | Так же начинаю изучать Django REST framework | А еще прохожу курс Компьютерные сети
 
 
 # Работы
