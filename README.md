@@ -10,6 +10,7 @@
 - [Мой путь](#Path)
 - [Мои работы]()
 
+<img src="https://github.com/finger-to-the-sky/resume/blob/main/%20Certificates/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python.pdf">
 
 # About 
 
@@ -31,7 +32,7 @@ Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Scrapy, 
 # Path
 
 - C Ноября по Декабрь: Вводные курсы
-- C Декабря по Февраль: <a href="">Основы Python</a>
+- C Декабря по Февраль: Основы Python
 - C Февраля по Март: Linux. Рабочая станция
 - С Марта по Май: Основы реляционных баз данных MySQL | В это же время, я самостоятельно изучал фреймворк aiogram
 - С Мая по Июнь: Алгоритмы и Структуры данных Python | Курс по HTML/CSS
