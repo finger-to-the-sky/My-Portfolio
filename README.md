@@ -11,10 +11,10 @@
 - [Мои работы](#Works)
 - Социальные Сети:
 
-<a target="_blank" href="https://www.linkedin.com/in/maxim-zaghreba-6636a0231/"><img src="https://cdn-icons-png.flaticon.com/32/145/145807.png"><a/>
-<a target="_blank" href="https://t.me/ZagMakk"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111646.png"><a/>
-<a target="_blank" href="https://www.instagram.com/maksim_zaghreba/"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111463.png"><a/>
-<a target="_blank" href="https://www.facebook.com/profile.php?id=100028229644209"><img src="https://cdn-icons-png.flaticon.com/32/1384/1384053.png"><a/>
+<a href="https://www.linkedin.com/in/maxim-zaghreba-6636a0231/"><img src="https://cdn-icons-png.flaticon.com/32/145/145807.png"><a/>
+<a href="https://t.me/ZagMakk"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111646.png"><a/>
+<a href="https://www.instagram.com/maksim_zaghreba/"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111463.png"><a/>
+<a href="https://www.facebook.com/profile.php?id=100028229644209"><img src="https://cdn-icons-png.flaticon.com/32/1384/1384053.png"><a/>
 
 
 # About 
@@ -42,24 +42,24 @@ Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Scrapy, 
 # Path
 
 - C Ноября по Декабрь: Вводные курсы
-- C Декабря по Февраль: <a target="_blank" href='https://drive.google.com/file/d/1SDKgSSX7E5KNRFqblBbqHfkghNs22re2/view'>Основы языка Python</a>
-- C Февраля по Март: <a target="_blank" href='https://drive.google.com/file/d/1SdMRiEV2-m3mg56VUNTKlxnXt2YNEr0O/view?usp=sharing'>Linux. Рабочая станция</a>
-- С Марта по Май: <a target="_blank" href="https://drive.google.com/file/d/1AVcj_mptVeTrRq2Fuzum21eMn4UXN8jz/view?usp=sharing">Основы реляционных баз данных MySQL</a> | В это же время, я самостоятельно изучал фреймворк aiogram
-- С Мая по Июнь: <a target="_blank" href="https://drive.google.com/file/d/1QnGBOa1SVIbzj30FfV1QlFQwkEbO5iTl/view?usp=sharing">Алгоритмы и Структуры данных Python</a> | <a target="_blank" href="https://drive.google.com/file/d/1iN0CFkrW7LW8li2QCzS4CHEsNFJOZYOG/view?usp=sharing">Курс по HTML/CSS</a>
+- C Декабря по Февраль: <a href='https://drive.google.com/file/d/1SDKgSSX7E5KNRFqblBbqHfkghNs22re2/view'>Основы языка Python</a>
+- C Февраля по Март: <a href='https://drive.google.com/file/d/1SdMRiEV2-m3mg56VUNTKlxnXt2YNEr0O/view?usp=sharing'>Linux. Рабочая станция</a>
+- С Марта по Май: <a href="https://drive.google.com/file/d/1AVcj_mptVeTrRq2Fuzum21eMn4UXN8jz/view?usp=sharing">Основы реляционных баз данных MySQL</a> | В это же время, я самостоятельно изучал фреймворк aiogram
+- С Мая по Июнь: <a href="https://drive.google.com/file/d/1QnGBOa1SVIbzj30FfV1QlFQwkEbO5iTl/view?usp=sharing">Алгоритмы и Структуры данных Python</a> | <a href="https://drive.google.com/file/d/1iN0CFkrW7LW8li2QCzS4CHEsNFJOZYOG/view?usp=sharing">Курс по HTML/CSS</a>
 <p>Затем началась свистопляска на платформе и приостановили обучение.
 Конечно же меня это не остановило и я продолжал повторять пройденный материал и изучать новые технологии.</p>
 
 - С Июля по Август: Методы сбора и обработки информации из сети Интернет
-- С 02 Августа по 12 Августа: Основы Django | <a target="_blank" href="https://github.com/finger-to-the-sky/geekshop-server">Реализовал проект "Интернет-магазин GeekShop"</a>
+- С 02 Августа по 12 Августа: Основы Django | <a href="https://github.com/finger-to-the-sky/geekshop-server">Реализовал проект "Интернет-магазин GeekShop"</a>
 - С 11 августа: началось обучение по основному курсу и сейчас прохожу Интерактивный Курс HTML/CSS
 
 
 # Works
 
-- <a target="_blank" href="https://github.com/finger-to-the-sky/Algorithms">Процесс изучения Алгоритмов</a>
-- <a target="_blank" href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс изучения Методов сбора и обработки информации из сети Интернет</a>
-- <a target="_blank" href="https://github.com/finger-to-the-sky/geekshop-server">Django. Интернет-магазин GeekShop</a>
-- <a target="_blank" href="https://github.com/finger-to-the-sky/LeetCode">Задачи LeetCode</a>
+- <a href="https://github.com/finger-to-the-sky/Algorithms">Процесс изучения Алгоритмов</a>
+- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс изучения Методов сбора и обработки информации из сети Интернет</a>
+- <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. Интернет-магазин GeekShop</a>
+- <a href="https://github.com/finger-to-the-sky/LeetCode">Задачи LeetCode</a>
 
 
 
