@@ -31,14 +31,14 @@
 
 
 
-# Мой стек
+# Стек
 
 - Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
 - <b>Запланированно изучить:</b> Django Rest, FastApi, asyncio, Flask и много других интересных технологий.
 
 
 
-# Мой путь
+# Путь
 
 - C Ноября по Декабрь: Вводные курсы
 - C Декабря по Февраль: <a href='https://drive.google.com/file/d/1SDKgSSX7E5KNRFqblBbqHfkghNs22re2/view'>Основы языка Python</a>
@@ -53,7 +53,7 @@
 - С 11 августа: началось обучение по основному курсу и сейчас прохожу Интерактивный Курс HTML/CSS | Так же начинаю изучать DjangoREST | А еще прохожу курс Компьютерные сети
 
 
-# Мои работы
+# Работы
 
 - <a href="https://github.com/finger-to-the-sky/Algorithms">Процесс изучения Алгоритмов</a>
 - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс изучения Методов сбора и обработки информации из сети Интернет</a>
