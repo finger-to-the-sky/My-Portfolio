@@ -1,5 +1,5 @@
 # Python-Разработчик
-<p> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEi9PONVsZqlg/profile-displayphoto-shrink_800_800/0/1660300538411?e=1665619200&v=beta&t=VfOQPL3Oh1bjx-Ya0CDjsTwijKms_ICBIlS3-Jw-h-k"></p>
+<p> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEi9PONVsZqlg/profile-displayphoto-shrink_800_800/0/1660300538411?e=1665619200&v=beta&t=VfOQPL3Oh1bjx-Ya0CDjsTwijKms_ICBIlS3-Jw-h-k" alt="Фото"></p>
 <p>Привет! Меня зовут Максим Загреба!
 И я человек, который станет senior-разработчиком!</p>
 
@@ -10,7 +10,7 @@
 - [Мой путь](#Path)
 - [Мои работы]()
 
-<p> <img src="https://gb.ru/certificates/1675989.pdf"> </p>
+<p> <img src="https://gb.ru/streams/36846/feedbacks/new?utm_referrer=https%3A%2F%2Fgb.ru%2Flessons%2F201359#"> </p>
 
 
 # About 
