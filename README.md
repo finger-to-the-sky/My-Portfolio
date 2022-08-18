@@ -1,7 +1,8 @@
 # Python-Разработчик
 <p> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEi9PONVsZqlg/profile-displayphoto-shrink_800_800/0/1660300538411?e=1665619200&v=beta&t=VfOQPL3Oh1bjx-Ya0CDjsTwijKms_ICBIlS3-Jw-h-k" alt="Фото"></p>
 <p><b>Привет! Меня зовут Максим Загреба!
-И я человек, который станет Senior-разработчиком!</b></p>
+И я стану Python-разработчиком!</b></p>
+
 
 # Content
 
@@ -26,30 +27,32 @@
 - Увлекаюсь Calisthenics - вид спорта основанный на работе с собственным весом. И StreetLifting.
 - С интересом изучаю новые технологии
 - Есть свои цели и я сделаю все, чтобы их добиться
-
+- Хочу стать хорошим разработчиком
 
 
 
 # Stack
 
-- Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
+- Основной стек: <b>Python, MySQL, PostgreSQL, Django</b>
+- Полный стек: Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
 - <b>Запланированно изучить:</b> Django REST Framework, FastApi, asyncio, Flask и много других интересных технологий.
 
 
 
 # Путь
 
-- C Ноября по Декабрь: Вводные курсы
-- C Декабря по Февраль: <a href='https://drive.google.com/file/d/1SDKgSSX7E5KNRFqblBbqHfkghNs22re2/view'>Основы языка Python</a>
-- C Февраля по Март: <a href='https://drive.google.com/file/d/1SdMRiEV2-m3mg56VUNTKlxnXt2YNEr0O/view?usp=sharing'>Linux. Рабочая станция</a>
-- С Марта по Май: <a href="https://drive.google.com/file/d/1AVcj_mptVeTrRq2Fuzum21eMn4UXN8jz/view?usp=sharing">Основы реляционных баз данных MySQL</a> | В это же время, я самостоятельно изучал фреймворк aiogram
-- С Мая по Июнь: <a href="https://drive.google.com/file/d/1QnGBOa1SVIbzj30FfV1QlFQwkEbO5iTl/view?usp=sharing">Алгоритмы и Структуры данных Python</a> | <a href="https://drive.google.com/file/d/1iN0CFkrW7LW8li2QCzS4CHEsNFJOZYOG/view?usp=sharing">Курс по HTML/CSS</a>
+- Вводные курсы
+- <a href='https://drive.google.com/file/d/1SDKgSSX7E5KNRFqblBbqHfkghNs22re2/view'>Основы языка Python</a>
+- <a href='https://drive.google.com/file/d/1SdMRiEV2-m3mg56VUNTKlxnXt2YNEr0O/view?usp=sharing'>Linux. Рабочая станция</a>
+- <a href="https://drive.google.com/file/d/1AVcj_mptVeTrRq2Fuzum21eMn4UXN8jz/view?usp=sharing">Основы реляционных баз данных MySQL</a> | В это же время, я самостоятельно изучал фреймворк aiogram
+- <a href="https://drive.google.com/file/d/1QnGBOa1SVIbzj30FfV1QlFQwkEbO5iTl/view?usp=sharing">Алгоритмы и Структуры данных Python</a> | <a href="https://drive.google.com/file/d/1iN0CFkrW7LW8li2QCzS4CHEsNFJOZYOG/view?usp=sharing">Курс по HTML/CSS</a>
 <p>Далее обучение на платформе приостановилось. Поэтому я начал изучать повторять
 пройденный материал и учиться самостоятельно</p>
 
-- С Июля по Август: Методы сбора и обработки информации из сети Интернет
-- С 02 Августа по 12 Августа: Основы Django | <a href="https://github.com/finger-to-the-sky/geekshop-server">Реализовал проект "Интернет-магазин GeekShop"</a>
-- С 11 августа: началось обучение по основному курсу и сейчас прохожу Интерактивный Курс HTML/CSS | Так же начинаю изучать Django REST framework | А еще прохожу курс Компьютерные сети
+- Самостоятельно: Методы сбора и обработки информации из сети Интернет
+- Самостоятельно: Основы Django | <a href="https://github.com/finger-to-the-sky/geekshop-server">Реализовал проект "Интернет-магазин GeekShop"</a>
+- С 11 августа: началось обучение по основному курсу и начал проходить Интерактивный Курс HTML/CSS | Так же начал изучать Django REST framework | А еще прохожу курс Компьютерные сети
+- <a href="">Интерактивный курс HTML/CSS</a> | <a href="">Реализовал простую вёрстку по макету</a>
 
 
 # Работы
@@ -58,6 +61,7 @@
 - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс изучения Методов сбора и обработки информации из сети Интернет</a>
 - <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. Интернет-магазин GeekShop</a>
 - <a href="https://github.com/finger-to-the-sky/LeetCode">Задачи LeetCode</a>
+- <a href="">My_Site. Верстка HTML/CSS.</a>
 
 
 
