@@ -33,7 +33,7 @@
 
 # Stack
 
-- Основной стек: <b>Python, MySQL, PostgreSQL, Django</b>
+- Основной стек: <b>Python, MySQL, Django</b>
 - Полный стек: Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
 - <b>Запланированно изучить:</b> Django REST Framework, FastApi, asyncio, Flask и много других интересных технологий.
 
