@@ -44,11 +44,11 @@
 - Вводні курси
 - <a href='https://drive.google.com/file/d/1SDKgSSX7E5KNRFqblBbqHfkghNs22re2/view'>Основи мови Python</a>
 - <a href='https://drive.google.com/file/d/1SdMRiEV2-m3mg56VUNTKlxnXt2YNEr0O/view?usp=sharing'>Linux. Рабоча станція</a>
-- <a href="https://drive.google.com/file/d/1AVcj_mptVeTrRq2Fuzum21eMn4UXN8jz/view?usp=sharing">Основи реляціонних баз данних MySQL</a> |  В цей час, я самостійно вивчав фреймворк aiogram
+- <a href="https://drive.google.com/file/d/1AVcj_mptVeTrRq2Fuzum21eMn4UXN8jz/view?usp=sharing">Основи реляційних баз данних MySQL</a> |  В цей час, я самостійно вивчав фреймворк aiogram
 - <a href="https://drive.google.com/file/d/1QnGBOa1SVIbzj30FfV1QlFQwkEbO5iTl/view?usp=sharing">Алгоритми та Структури данних Python</a> | <a href="https://drive.google.com/file/d/1iN0CFkrW7LW8li2QCzS4CHEsNFJOZYOG/view?usp=sharing">Курс по HTML/CSS</a>
-<p>Далі вивчання  на платформі призупинилось. Тому я почав вивчати та повторювати пройдений матеріал та вчиться самостійно</p>
+<p>Далі вивчання  на платформі призупинилось. Тому я почав вивчати та повторювати пройдений матеріал та навчатися самостійно</p>
 
-- Самостійно: Методи сбору та обрабоки інформації из мережі Інтернет
+- Самостійно: Методи сбору та обробки інформації из мережі Інтернет
 - Самостійно: Основи Django  | <a href="https://github.com/finger-to-the-sky/geekshop-server">Реалізував проект  "Інтернет-магазин GeekShop"</a>
 - С 11 Серпня: почалось навчання по основному курсу та я почав  проходить Інтерактивний Курс HTML/CSS | Також почав самостійно вивчати Django REST framework | А ще проходжу курс Компьютерні мережі
 - <a href="">Інтерактивный курс HTML/CSS</a> | <a href="https://github.com/finger-to-the-sky/My_Site">Реалізував просту вёрстку по макету</a>
@@ -57,7 +57,7 @@
 # Розробки
 
 - <a href="https://github.com/finger-to-the-sky/Algorithms">Процесс вивчення Алгоритмів</a>
-- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс вивчення Методів сбору та обрабоки інформації из мережі Інтернет</a>
+- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс вивчення Методів сбору та обробки інформації из мережі Інтернет</a>
 - <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. Інтернет-магазин GeekShop</a>
 - <a href="https://github.com/finger-to-the-sky/LeetCode">Задачи LeetCode</a>
 - <a href="https://github.com/finger-to-the-sky/My_Site">My_Site. Вёрстка HTML/CSS.</a>
