@@ -1,5 +1,4 @@
 # Python-Разробник
-<p> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHtzb07AUtB2Q/profile-displayphoto-shrink_800_800/0/1661078784901?e=1666828800&v=beta&t=BqRlkd3ZMIXKcARAj24B31cw8DRh9DrFIIdkj5n2Ick" alt="Фото"></p>
 <p><b>Привіт, мене звати Максим Загреба! 
  Та я людина, яка стане Python-розробником!</b></p>
 <b>Мовні версії мого резюме:</b>
