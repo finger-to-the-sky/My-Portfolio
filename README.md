@@ -51,7 +51,7 @@
 - Самостійно: Методи сбору та обрабоки інформації из мережі Інтернет
 - Самостійно: Основи Django  | <a href="https://github.com/finger-to-the-sky/geekshop-server">Реалізував проект  "Інтернет-магазин GeekShop"</a>
 -С 11 Серпня: почалось навчання по основному курсу та я почав  проходить Інтерактивний Курс HTML/CSS | Також почав самостійно вивчати Django REST framework | А ще проходжу курс Компьютерні мережі
-  - <a href="">Інтерактивный курс HTML/CSS</a> | <a href="https://github.com/finger-to-the-sky/My_Site">Реалізував просту вёрстку по макету</a>
+- <a href="">Інтерактивный курс HTML/CSS</a> | <a href="https://github.com/finger-to-the-sky/My_Site">Реалізував просту вёрстку по макету</a>
 
 
 # Розробки
