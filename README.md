@@ -42,7 +42,7 @@ Social Networks:
 
 # Stack
 
-- Core stack: <b>Python, MySQL, PostgreSQL, Django</b>
+- Core stack: <b>Python, MySQL, Django</b>
 - Full stack: Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
 - <b>Planned to learn:</b> Django REST Framework, FastApi, asyncio, Flask and many other interesting technologies.
 
