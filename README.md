@@ -46,27 +46,26 @@ Social Networks:
 
 # Path
 
-- Вводные курсы
-- <a href='https://drive.google.com/file/d/1SDKgSSX7E5KNRFqblBbqHfkghNs22re2/view'>Основы языка Python</a>
-- <a href='https://drive.google.com/file/d/1SdMRiEV2-m3mg56VUNTKlxnXt2YNEr0O/view?usp=sharing'>Linux. Рабочая станция</a>
-- <a href="https://drive.google.com/file/d/1AVcj_mptVeTrRq2Fuzum21eMn4UXN8jz/view?usp=sharing">Основы реляционных баз данных MySQL</a> | В это же время, я самостоятельно изучал фреймворк aiogram
-- <a href="https://drive.google.com/file/d/1QnGBOa1SVIbzj30FfV1QlFQwkEbO5iTl/view?usp=sharing">Алгоритмы и Структуры данных Python</a> | <a href="https://drive.google.com/file/d/1iN0CFkrW7LW8li2QCzS4CHEsNFJOZYOG/view?usp=sharing">Курс по HTML/CSS</a>
-<p>Далее обучение на платформе приостановилось. Поэтому я начал изучать повторять
-пройденный материал и учиться самостоятельно</p>
+- Introductory courses
+- <a href='https://drive.google.com/file/d/1SDKgSSX7E5KNRFqblBbqHfkghNs22re2/view'>Fundamentals of Python</a>
+- <a href='https://drive.google.com/file/d/1SdMRiEV2-m3mg56VUNTKlxnXt2YNEr0O/view?usp=sharing'>Linux. Workstation</a>
+- <a href="https://drive.google.com/file/d/1AVcj_mptVeTrRq2Fuzum21eMn4UXN8jz/view?usp=sharing">Basics of MySQL relational databases</a> | At the same time, I studied the aiogram framework on my own
+- <a href="https://drive.google.com/file/d/1QnGBOa1SVIbzj30FfV1QlFQwkEbO5iTl/view?usp=sharing">Algorithms and Python Data Structures</a> | <a href="https://drive.google.com/file/d/1iN0CFkrW7LW8li2QCzS4CHEsNFJOZYOG/view?usp=sharing">HTML/CSS course</a>
+<p>Further learning on the platform suspended. So I began to study to repeat the passed material and study by myself</p>
 
-- Самостоятельно: Методы сбора и обработки информации из сети Интернет
-- Самостоятельно: Основы Django | <a href="https://github.com/finger-to-the-sky/geekshop-server">Реализовал проект "Интернет-магазин GeekShop"</a>
-- С 11 августа: началось обучение по основному курсу и начал проходить Интерактивный Курс HTML/CSS | Так же начал изучать Django REST framework | А еще прохожу курс Компьютерные сети
-- <a href="">Интерактивный курс HTML/CSS</a> | <a href="https://github.com/finger-to-the-sky/My_Site">Реализовал простую вёрстку по макету</a>
+- By myself: Methods of gathering and processing information from the Internet
+- By myself: Fundamentals of Django | <a href="https://github.com/finger-to-the-sky/geekshop-server">Implemented the "GeekShop" online store project</a>
+- Since August 11: I began studying the basic course and started the interactive course HTML / CSS | I also began to learn Django REST framework | I am also studying Computer Networks.
+- <a href="">HTML/CSS interactive course</a> | <a href="https://github.com/finger-to-the-sky/My_Site">I implemented a simple makeup by the layout.</a>
 
 
 # Works
 
-- <a href="https://github.com/finger-to-the-sky/Algorithms">Процесс изучения Алгоритмов</a>
-- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс изучения Методов сбора и обработки информации из сети Интернет</a>
-- <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. Интернет-магазин GeekShop</a>
-- <a href="https://github.com/finger-to-the-sky/LeetCode">Задачи LeetCode</a>
-- <a href="https://github.com/finger-to-the-sky/My_Site">My_Site. Верстка HTML/CSS.</a>
+- <a href="https://github.com/finger-to-the-sky/Algorithms">Algorithms Learning Process</a>
+- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">The process of studying Methods of collecting and processing information from the Internet</a>
+- <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. GeekShop online store</a>
+- <a href="https://github.com/finger-to-the-sky/LeetCode">LeetCode Tasks</a>
+- <a href="https://github.com/finger-to-the-sky/My_Site">My_Site. HTML/CSS layout.</a>
 
 
 
