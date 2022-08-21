@@ -27,7 +27,7 @@
 - I'm 23
 - Incomplete higher education (not IT)
 - No work experience in IT yet
-- Enrolled in <a href="https://gb.ru/">GeekBrains</a>Python development course in November 2021.
+- Enrolled in <a href="https://gb.ru/">GeekBrains</a> Python development course in November 2021.
 - Passionate about Calisthenics - a sport based on working with your own weight. And StreetLifting.
 - I'm interested in new technologies
 - I have my own goals and I'll do my best to achieve them
