@@ -1,5 +1,5 @@
 # Python-Разработчик
-<p> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEi9PONVsZqlg/profile-displayphoto-shrink_800_800/0/1660300538411?e=1665619200&v=beta&t=VfOQPL3Oh1bjx-Ya0CDjsTwijKms_ICBIlS3-Jw-h-k" alt="Фото"></p>
+<p> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHtzb07AUtB2Q/profile-displayphoto-shrink_800_800/0/1661078784901?e=1666828800&v=beta&t=BqRlkd3ZMIXKcARAj24B31cw8DRh9DrFIIdkj5n2Ick" alt="Фото"></p>
 <p><b>Привет! Меня зовут Максим Загреба!
 И я человек, который станет Python-разработчиком!</b></p>
 
