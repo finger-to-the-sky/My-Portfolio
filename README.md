@@ -52,7 +52,7 @@
 <p>Далее обучение на платформе приостановилось. Поэтому я начал изучать повторять
 пройденный материал и учиться самостоятельно</p>
 
-- Самостоятельно: Методы сбора и обработки информации из сети Интернет
+- Самостоятельно: Методы сбора и обработки информации из сети Интернет | Разработал Скраппер <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">work.ua jobs.ua</a> и  <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">budmax.ua</a>
 - Самостоятельно: Основы Django | <a href="https://github.com/finger-to-the-sky/geekshop-server">Реализовал проект "Интернет-магазин GeekShop"</a>
 - С 11 августа: началось обучение по основному курсу и начал проходить Интерактивный Курс HTML/CSS | Так же начал изучать Django REST framework | А еще прохожу курс Компьютерные сети
 - <a href="">Интерактивный курс HTML/CSS</a> | <a href="https://github.com/finger-to-the-sky/My_Site">Реализовал простую вёрстку по макету</a>
@@ -60,11 +60,14 @@
 
 # Работы
 
+- <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. Интернет-магазин GeekShop</a>
+- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Скрапер work.ua jobs.ua</a>
+- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">Скрапер budmax.ua</a>
+- <a href="https://github.com/finger-to-the-sky/My_Site">My_Site. Верстка HTML/CSS.</a>
 - <a href="https://github.com/finger-to-the-sky/Algorithms">Процесс изучения Алгоритмов</a>
 - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс изучения Методов сбора и обработки информации из сети Интернет</a>
-- <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. Интернет-магазин GeekShop</a>
 - <a href="https://github.com/finger-to-the-sky/LeetCode">Задачи LeetCode</a>
-- <a href="https://github.com/finger-to-the-sky/My_Site">My_Site. Верстка HTML/CSS.</a>
+
 
 
 
