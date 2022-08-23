@@ -50,7 +50,7 @@
 - <a href="https://drive.google.com/file/d/1QnGBOa1SVIbzj30FfV1QlFQwkEbO5iTl/view?usp=sharing">Алгоритми та Структури данних Python</a> | <a href="https://drive.google.com/file/d/1iN0CFkrW7LW8li2QCzS4CHEsNFJOZYOG/view?usp=sharing">Курс по HTML/CSS</a>
 <p>Далі вивчання  на платформі призупинилось. Тому я почав вивчати та повторювати пройдений матеріал та навчатися самостійно</p>
 
-- Самостійно: Методи сбору та обробки інформації из мережі Інтернет
+- Самостійно: Методи сбору та обробки інформації из мережі Інтернет | Реалізував cкапери  <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Work.ua Jobs.ua</a> та - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">скрапер Budmax.ua</a>
 - Самостійно: Основи Django  | <a href="https://github.com/finger-to-the-sky/geekshop-server">Реалізував проект  "Інтернет-магазин GeekShop"</a>
 - С 11 Серпня: почалось навчання по основному курсу та я почав  проходить Інтерактивний Курс HTML/CSS | Також почав самостійно вивчати Django REST framework | А ще проходжу курс Компьютерні мережі
 - <a href="">Інтерактивный курс HTML/CSS</a> | <a href="https://github.com/finger-to-the-sky/My_Site">Реалізував просту вёрстку по макету</a>
@@ -58,8 +58,10 @@
 
 # Розробки
 
+- <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. Інтернет-магазин GeekShop</a>
+- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Скапери Work.ua Jobs.ua</a>
+- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">Скрапер Budmax.ua</a>
 - <a href="https://github.com/finger-to-the-sky/Algorithms">Процесс вивчення Алгоритмів</a>
 - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс вивчення Методів сбору та обробки інформації из мережі Інтернет</a>
-- <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. Інтернет-магазин GeekShop</a>
 - <a href="https://github.com/finger-to-the-sky/LeetCode">Задачи LeetCode</a>
 - <a href="https://github.com/finger-to-the-sky/My_Site">My_Site. Вёрстка HTML/CSS.</a>
