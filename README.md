@@ -59,9 +59,10 @@
 # Розробки
 
 - <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. Інтернет-магазин GeekShop</a>
-- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Скапери Work.ua Jobs.ua</a>
+- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Скрапер Work.ua Jobs.ua</a>
 - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">Скрапер Budmax.ua</a>
+- <a href="https://github.com/finger-to-the-sky/My_Site">My_Site. Вёрстка HTML/CSS.</a>
 - <a href="https://github.com/finger-to-the-sky/Algorithms">Процесс вивчення Алгоритмів</a>
 - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">Процесс вивчення Методів сбору та обробки інформації из мережі Інтернет</a>
 - <a href="https://github.com/finger-to-the-sky/LeetCode">Задачи LeetCode</a>
-- <a href="https://github.com/finger-to-the-sky/My_Site">My_Site. Вёрстка HTML/CSS.</a>
+
