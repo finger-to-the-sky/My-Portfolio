@@ -52,7 +52,7 @@
 - <a href="https://drive.google.com/file/d/1QnGBOa1SVIbzj30FfV1QlFQwkEbO5iTl/view?usp=sharing">Algorithms and Python Data Structures</a> | <a href="https://drive.google.com/file/d/1iN0CFkrW7LW8li2QCzS4CHEsNFJOZYOG/view?usp=sharing">HTML/CSS course</a>
 <p>Further learning on the platform suspended. So I began to study to repeat the passed material and study by myself</p>
 
-- By myself: Methods of gathering and processing information from the Internet
+- By myself: Methods of gathering and processing information from the Internet | <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">wrote Scrapper's sites work.ua, jobs.ua</a> and <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">Budmax.ua</a>
 - By myself: Fundamentals of Django | <a href="https://github.com/finger-to-the-sky/geekshop-server">Implemented the "GeekShop" online store project</a>
 - Since August 11: I began studying the basic course and started the interactive course HTML / CSS | I also began to learn Django REST framework | I am also studying Computer Networks.
 - <a href="">HTML/CSS interactive course</a> | <a href="https://github.com/finger-to-the-sky/My_Site">I implemented a simple makeup by the layout.</a>
@@ -60,11 +60,14 @@
 
 # Works
 
+- <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. GeekShop online store</a>
+- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Scrapy. Work.ua, Jobs.ua</a>
+- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">Scrapy. Budmax.ua</a>
+- <a href="https://github.com/finger-to-the-sky/My_Site">My_Site. HTML/CSS layout.</a>
 - <a href="https://github.com/finger-to-the-sky/Algorithms">Algorithms Learning Process</a>
 - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping">The process of studying Methods of collecting and processing information from the Internet</a>
-- <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. GeekShop online store</a>
 - <a href="https://github.com/finger-to-the-sky/LeetCode">LeetCode Tasks</a>
-- <a href="https://github.com/finger-to-the-sky/My_Site">My_Site. HTML/CSS layout.</a>
+
 
 
 
