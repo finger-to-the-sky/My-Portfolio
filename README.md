@@ -1,11 +1,13 @@
-# Python-Developer
+# Zaghreba Maxim
 
-<p><b>Hi, my name is Maksim Zagreba! <br>And I'm the person who will become a Python Developer!</b><br>
- P.S. I want to tell you that I have poor knowledge of English, so I apologize for poor translation.<br></p>
-<b>Language versions of my resume:</b>
-<p><a href="https://github.com/finger-to-the-sky/resume"><img src="https://cdn-icons-png.flaticon.com/32/555/555417.png"><a/>
-<a href="https://github.com/finger-to-the-sky/resume/tree/Russian"><img src="https://cdn-icons-png.flaticon.com/32/555/555451.png"><a/>
-<a href="https://github.com/finger-to-the-sky/resume/tree/Ukrainian"><img src="https://cdn-icons-png.flaticon.com/32/206/206707.png"><a/></p>
+<img src="https://github.com/finger-to-the-sky/My-Portfolio/blob/main/after.jpg" alt="My Photo" width=600/>
+
+<h3>Welcome to my portfolio page I'm a Python developer. Here you can get acquainted with my works and learn about me in more detail.</h3>
+
+<h4>Language versions of my portfolio:</h4>
+<a href="https://github.com/finger-to-the-sky/resume"><img src="https://cdn-icons-png.flaticon.com/32/555/555417.png"></a>
+<a href="https://github.com/finger-to-the-sky/resume/tree/Russian"><img src="https://cdn-icons-png.flaticon.com/32/555/555451.png"></a>
+<a href="https://github.com/finger-to-the-sky/resume/tree/Ukrainian"><img src="https://cdn-icons-png.flaticon.com/32/206/206707.png"></a>
 
 
 # Content
@@ -24,20 +26,14 @@
 
 # About_me
 
-- I'm 23
-- Incomplete higher education (not IT)
-- No work experience in IT yet
-- Enrolled in <a href="https://gb.ru/">GeekBrains</a> Python development course in November 2021.
-- Passionate about Calisthenics - a sport based on working with your own weight. And StreetLifting.
-- I'm interested in new technologies
-- I have my own goals and I'll do my best to achieve them
-- I want to be a good developer
+<p>I’m 23. I started to be interested in web development a very long time ago, but I didn’t study it seriously, and when I realized that I would like to do it more seriously, in November 2021 I entered the Faculty of Python Development at Geekbrains. Now I have completed my studies and continue my development in the field of backend development, improving my skills and learning new things</p>
 
 
 
 # Stack
 
-- Core stack: <b>Python, MySQL, Django</b>
+- Core stack: ![Static Badge](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=white)
+, MySQL, Django</b>
 - Full stack: Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
 - <b>Planned to learn:</b> Django REST Framework, FastApi, asyncio, Flask and many other interesting technologies.
 
