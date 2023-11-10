@@ -1,6 +1,6 @@
 # Zaghreba Maxim
 
-<img src="https://github.com/finger-to-the-sky/My-Portfolio/blob/main/after.jpg" alt="My Photo" width=600/>
+<img src="https://github.com/finger-to-the-sky/My-Portfolio/blob/main/after.jpg" alt="My Photo" width=400/>
 
 <h3>Welcome to my portfolio page I'm a Python developer. Here you can get acquainted with my works and learn about me in more detail.</h3>
 
@@ -8,7 +8,6 @@
 <a href="https://github.com/finger-to-the-sky/resume"><img src="https://cdn-icons-png.flaticon.com/32/555/555417.png"></a>
 <a href="https://github.com/finger-to-the-sky/resume/tree/Russian"><img src="https://cdn-icons-png.flaticon.com/32/555/555451.png"></a>
 <a href="https://github.com/finger-to-the-sky/resume/tree/Ukrainian"><img src="https://cdn-icons-png.flaticon.com/32/206/206707.png"></a>
-
 
 # Content
 
@@ -31,11 +30,27 @@
 
 
 # Stack
+<div>
+<img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/>  <img src='https://img.shields.io/badge/django-185316?style=for-the-badge&logo=django&logoColor=white'/>  <img alt="Static Badge" src="https://img.shields.io/badge/django_rest_framework-black?style=for-the-badge&logo=django&logoColor=white">  <img alt="Static Badge" src="https://img.shields.io/badge/postgres-57B0E2?style=for-the-badge&logo=postgresql&logoColor=white">  <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-1DA887?style=for-the-badge&logo=fastapi&logoColor=white"> <img alt="Static Badge"     
+src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+ 
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/html-E51E1E?style=for-the-badge&logo=html5&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-0B4376?style=for-the-badge&logo=CSS&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/javascript-646464?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFD056">
+ <img alt="Static Badge" src="https://img.shields.io/badge/react-490A89?style=for-the-badge&logo=react&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/nextjs-E5B300?style=for-the-badge&logo=nextjs&logoColor=white">
 
-- Core stack: ![Static Badge](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=white)
-, MySQL, Django</b>
-- Full stack: Python, Linux, MySql, aiogram, HTML/CSS, BeautifulSoup, XPATH, MongoDB, Selenium, Scrapy, Django.<br>
-- <b>Planned to learn:</b> Django REST Framework, FastApi, asyncio, Flask and many other interesting technologies.
+</div>
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flask-EAEAEA?style=for-the-badge&logo=flask&logoColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/Celery-76CE84?style=for-the-badge&logo=Celery&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-69814A?style=for-the-badge&logo=sqlalchemy&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/asyncio-00784D?style=for-the-badge&logo=asyncio&logoColor=white">
+
+</div>
+
+
+
+
+
+
+
 
 
 
