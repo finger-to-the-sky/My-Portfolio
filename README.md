@@ -40,12 +40,12 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 </div>
 
 # Works
-- <a href="https://github.com/antsproject/Microblog">Microblog </a>
-- <a href="https://github.com/finger-to-the-sky/Architecture_and_design">ZagMak Framework</a>
-- <a href="https://github.com/finger-to-the-sky/AsyncChatV2">AsyncChat </a>
-- <a href="https://github.com/finger-to-the-sky/VoiceBOT">VoiceBOT </a>
-- <a href="https://github.com/finger-to-the-sky/BraniacLMS"> BraniacLMS </a>
-- <a href="https://github.com/finger-to-the-sky/flask_project">Flask </a>
+- <a href="https://github.com/antsproject/Microblog">Team development project "Microblog AntsProject"</a>
+- <a href="https://github.com/finger-to-the-sky/Architecture_and_design">ZagMak Framework. Personal framework</a>
+- <a href="https://github.com/finger-to-the-sky/AsyncChatV2">AsyncChat. Terminal asynchronous chat</a>
+- <a href="https://github.com/finger-to-the-sky/VoiceBOT">Voice ChatGPT Telegram BOT</a>
+- <a href="https://github.com/finger-to-the-sky/BraniacLMS">Educational platform "Braniac LMS"</a>
+- <a href="https://github.com/finger-to-the-sky/flask_project">ZagMak Blog on the Flask</a>
 - <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. GeekShop online store</a>
 - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Scrapy. Work.ua, Jobs.ua</a>
 - <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">Scrapy. Budmax.ua</a>
