@@ -1,32 +1,32 @@
 <h1 >Zaghreba Maxim <a href="#" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Backend Python Developer | Python3🐍 Django REST Framework💻 PostgreSQL📊 FastAPI🚀</h3>
-<!-- <h3>My name's Zaghreba Maxim and I'm a Python developer. Here you can get acquainted with my works and learn about me in more detail.</h3> -->
-<!-- <img src="https://github.com/finger-to-the-sky/My-Portfolio/blob/main/after.jpg" alt="My Photo" width=400/> -->
 
+<img src="https://github.com/finger-to-the-sky/My-Portfolio/blob/main/after.jpg" alt="My Photo" width=400/>
+⬇️ <a href="https://drive.google.com/file/d/1xi_BhBi7pn_mc_FYBHhB_qbrOT5djiyU/view?usp=sharing">Download resume</a>
 <h3>Контактная информация: </h3>
 <p>📞 Номер телефона: +380(95)213-90-50</p>
 <p>📧 Почта: <a href="mailto:mzagrebam@gmail.com">mzagrebam@gmail.com</a></p>
 <br>
 
-<!-- # Content
+# Content
 
 - [About me](#About_me)
 - [My stack](#Stack)
 - [My work](#Works)
 - <b>Social Networks:</b>
- -->
+
 <a href="https://www.linkedin.com/in/maxim-zaghreba-6636a0231/"><img src="https://cdn-icons-png.flaticon.com/32/145/145807.png"><a/>
 <a href="https://t.me/ZagMakk"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111646.png"><a/>
 <a href="https://www.instagram.com/maksim_zaghreba/"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111463.png"><a/>
 <a href="https://www.facebook.com/profile.php?id=100028229644209"><img src="https://cdn-icons-png.flaticon.com/32/1384/1384053.png"><a/>
 
 
-<!--# About_me
+# About_me
 
 <p>I’m 23. I started to be interested in web development a very long time ago, but I didn’t study it seriously, and when I realized that I would like to do it more seriously, in November 2021 I entered the Faculty of Python Development at Geekbrains. </p>
 <p>Now I have completed my studies and continue my development in the field of backend development, improving my skills and learning new things</p>
- -->
+
 
 
 # Stack
