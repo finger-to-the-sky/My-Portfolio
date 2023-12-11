@@ -7,15 +7,15 @@
 <h3>Контактная информация: </h3>
 <p>📞 Номер телефона: +380(95)213-90-50</p>
 <p>📧 Почта: <a href="mailto:mzagrebam@gmail.com">mzagrebam@gmail.com</a></p>
+<br>
 
-
-# Content
+<!-- # Content
 
 - [About me](#About_me)
 - [My stack](#Stack)
 - [My work](#Works)
 - <b>Social Networks:</b>
-
+ -->
 <a href="https://www.linkedin.com/in/maxim-zaghreba-6636a0231/"><img src="https://cdn-icons-png.flaticon.com/32/145/145807.png"><a/>
 <a href="https://t.me/ZagMakk"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111646.png"><a/>
 <a href="https://www.instagram.com/maksim_zaghreba/"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111463.png"><a/>
