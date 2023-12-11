@@ -1,12 +1,12 @@
 <h1 >Zaghreba Maxim <a href="#" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Backend Python Developer | Python3 Django REST Framework PostgreSQL FastAPI</h3>
+<h3>Backend Python Developer | Python3🐍 Django REST Framework💻 PostgreSQL📊 FastAPI🚀</h3>
 <!-- <h3>My name's Zaghreba Maxim and I'm a Python developer. Here you can get acquainted with my works and learn about me in more detail.</h3> -->
 <!-- <img src="https://github.com/finger-to-the-sky/My-Portfolio/blob/main/after.jpg" alt="My Photo" width=400/> -->
 
 <h3>Контактная информация: </h3>
-<p>Номер телефона: +380(95)213-90-50</p>
-<p>Почта: <a href="mzagrebam@gmail.com">mzagrebam@gmail.com</a></p>
+<p>📞 Номер телефона: +380(95)213-90-50</p>
+<p>📧 Почта: <a href="mailto:mzagrebam@gmail.com">mzagrebam@gmail.com</a></p>
 
 
 # Content
