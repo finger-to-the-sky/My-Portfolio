@@ -41,15 +41,61 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 </div>
 
 # Works
-- <a href="https://github.com/antsproject/Microblog">Team development project "Microblog AntsProject"</a>
-- <a href="https://github.com/finger-to-the-sky/Architecture_and_design">ZagMak Framework. Personal framework</a>
-- <a href="https://github.com/finger-to-the-sky/AsyncChatV2">AsyncChat. Terminal asynchronous chat</a>
-- <a href="https://github.com/finger-to-the-sky/VoiceBOT">Voice ChatGPT Telegram BOT</a>
-- <a href="https://github.com/finger-to-the-sky/BraniacLMS">Educational platform "Braniac LMS"</a>
-- <a href="https://github.com/finger-to-the-sky/flask_project">ZagMak Blog on the Flask</a>
-- <a href="https://github.com/finger-to-the-sky/geekshop-server">Django. GeekShop online store</a>
-- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Scrapy. Work.ua, Jobs.ua</a>
-- <a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">Scrapy. Budmax.ua</a>
+
+## Team development project "Microblog AntsProject"
+🔗<a href="https://github.com/antsproject/Microblog">Link to the project</a>
+
+- Developed a support microservice
+- Developed HTML markup for a design mockup
+- Developed React components and configured communication with the backend server
+- Actively participated in making architectural decisions for the project
+
+### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/django_rest_framework-black?style=for-the-badge&logo=django&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/postgres-57B0E2?style=for-the-badge&logo=postgresql&logoColor=white">  <img alt="Static Badge" src="https://img.shields.io/badge/html-E51E1E?style=for-the-badge&logo=html5&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-0B4376?style=for-the-badge&logo=CSS&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/javascript-646464?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFD056"> 
+<div><img alt="Static Badge" src="https://img.shields.io/badge/react-490A89?style=for-the-badge&logo=react&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/nextjs-E5B300?style=for-the-badge&logo=nextjs&logoColor=white"></div>
+
+---
+
+## ZagMak Framework. Personal framework
+🔗<a href="https://github.com/finger-to-the-sky/Architecture_and_design">Link to the project</a>
+
+- Developed basic WSGI functionality
+- Connected Jinja2 and HTML markup to the project
+- Practiced Design Patterns to solve issues related to performance
+
+### Stack: <img alt="Static Badge" src="https://img.shields.io/badge/html-E51E1E?style=for-the-badge&logo=html5&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-0B4376?style=for-the-badge&logo=CSS&logoColor=white"> WSGI, JINJA2
+
+---
+
+## AsyncChat. Terminal asynchronous chat
+🔗<a href="https://github.com/finger-to-the-sky/AsyncChatV2">Link to the project</a>
+
+## Voice ChatGPT Telegram BOT
+🔗<a href="https://github.com/finger-to-the-sky/VoiceBOT">Link to the project</a>
+
+## Educational platform "Braniac LMS"
+🔗<a href="https://github.com/finger-to-the-sky/BraniacLMS">Link to the project</a>
+
+## ZagMak Blog on the Flask
+🔗<a href="https://github.com/finger-to-the-sky/flask_project">Link to the project</a>
+
+## Django. GeekShop online store
+🔗<a href="https://github.com/finger-to-the-sky/geekshop-server">Link to the project</a>
+
+## Scrapy. Work.ua, Jobs.ua
+🔗<a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Link to the project</a>
+
+## Scrapy. Budmax.ua
+🔗<a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">Link to the project</a>
+
+
+
+
+
+
+
+
+
+
 
 
 
