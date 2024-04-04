@@ -62,12 +62,14 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 - Connected Jinja2 and HTML markup to the project
 - Practiced Design Patterns to solve issues related to performance
 
-### Stack: <img alt="Static Badge" src="https://img.shields.io/badge/html-E51E1E?style=for-the-badge&logo=html5&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-0B4376?style=for-the-badge&logo=CSS&logoColor=white"> WSGI, JINJA2
+### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/html-E51E1E?style=for-the-badge&logo=html5&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-0B4376?style=for-the-badge&logo=CSS&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/wsgi-blue?style=for-the-badge&logo=wsgi"> <img alt="Static Badge" src="https://img.shields.io/badge/jinja2-green?style=for-the-badge&logo=jinja2">
 
 ---
 
 ## AsyncChat. Terminal asynchronous chat
 🔗<a href="https://github.com/finger-to-the-sky/AsyncChatV2">Link to the project</a>
+
+
 
 ## Voice ChatGPT Telegram BOT
 🔗<a href="https://github.com/finger-to-the-sky/VoiceBOT">Link to the project</a>
