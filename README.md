@@ -3,7 +3,6 @@
 <h3>Backend Python Developer | Python3🐍 Django REST Framework💻 PostgreSQL📊 FastAPI🚀</h3>
 
 <img src="https://github.com/finger-to-the-sky/My-Portfolio/blob/main/after.jpg" alt="My Photo" width=400/>
-⬇️ <a href="https://drive.google.com/file/d/1xi_BhBi7pn_mc_FYBHhB_qbrOT5djiyU/view?usp=sharing">Download resume</a>
 <h3>Контактная информация: </h3>
 <p>📞 Номер телефона: +380(95)213-90-50</p>
 <p>📧 Почта: <a href="mailto:mzagrebam@gmail.com">mzagrebam@gmail.com</a></p>
