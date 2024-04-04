@@ -6,7 +6,6 @@
 <h3>Контактная информация: </h3>
 <p>📞 Номер телефона: +380(95)213-90-50</p>
 <p>📧 Почта: <a href="mailto:mzagrebam@gmail.com">mzagrebam@gmail.com</a></p>
-<br>
 
 # Content
 
@@ -23,7 +22,7 @@
 
 # About_me
 
-<p>I’m 23. I started to be interested in web development a very long time ago, but I didn’t study it seriously, and when I realized that I would like to do it more seriously, in November 2021 I entered the Faculty of Python Development at Geekbrains. </p>
+<p>I’m 25. I started to be interested in web development a very long time ago, but I didn’t study it seriously, and when I realized that I would like to do it more seriously, in November 2021 I entered the Faculty of Python Development at Geekbrains. </p>
 <p>Now I have completed my studies and continue my development in the field of backend development, improving my skills and learning new things</p>
 
 
