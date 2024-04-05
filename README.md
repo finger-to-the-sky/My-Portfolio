@@ -1,9 +1,11 @@
-<h1 >Zaghreba Maxim <a href="#" target="_blank"></a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1>
+	Zaghreba Maxim <a href="#" target="_blank"></a>
+	<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 <h3>Backend Python Developer | Python3🐍 Django REST Framework💻 PostgreSQL📊 FastAPI🚀</h3>
 
 <img src="https://github.com/finger-to-the-sky/My-Portfolio/blob/main/after.jpg" alt="My Photo" width=400/>
-<h3>Контактная информация: </h3>
+<h3>Contact information:</h3>
 <p>📞 Номер телефона: +380(95)213-90-50</p>
 <p>📧 Почта: <a href="mailto:mzagrebam@gmail.com">mzagrebam@gmail.com</a></p>
 <a href="https://www.linkedin.com/in/maxim-zaghreba-6636a0231/"><img src="https://cdn-icons-png.flaticon.com/32/145/145807.png"><a/>
@@ -62,14 +64,20 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 - Connected Jinja2 and HTML markup to the project
 - Practiced Design Patterns to solve issues related to performance
 
-### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/html-E51E1E?style=for-the-badge&logo=html5&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-0B4376?style=for-the-badge&logo=CSS&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/wsgi-blue?style=for-the-badge&logo=wsgi"> <img alt="Static Badge" src="https://img.shields.io/badge/jinja2-green?style=for-the-badge&logo=jinja2">
+### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/html-E51E1E?style=for-the-badge&logo=html5&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-0B4376?style=for-the-badge&logo=CSS&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/wsgi-blue?style=for-the-badge&logo=wsgi"> <img alt="Static Badge" src="https://img.shields.io/badge/jinja2-green?style=for-the-badge&logo=jinja&logoColor=white">
 
 ---
 
 ## AsyncChat. Terminal asynchronous chat
 🔗<a href="https://github.com/finger-to-the-sky/AsyncChatV2">Link to the project</a>
 
+- I've set up the functionality between the client and the server using socket
+- Used logging to record the code's operation
+- Employed multithreading to connect multiple clients to the server
 
+### Stack: <img alt="Static Badge" src="https://img.shields.io/badge/threading-black?style=for-the-badge&color=black"> <img alt="Static Badge" src="https://img.shields.io/badge/socket-brown?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/json-white?style=for-the-badge&logo=json&logoColor=black">
+
+---
 
 ## Voice ChatGPT Telegram BOT
 🔗<a href="https://github.com/finger-to-the-sky/VoiceBOT">Link to the project</a>
