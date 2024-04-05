@@ -75,12 +75,26 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 - Used logging to record the code's operation
 - Employed multithreading to connect multiple clients to the server
 
-### Stack: <img alt="Static Badge" src="https://img.shields.io/badge/threading-black?style=for-the-badge&color=black"> <img alt="Static Badge" src="https://img.shields.io/badge/socket-brown?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/json-white?style=for-the-badge&logo=json&logoColor=black">
+### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/threading-black?style=for-the-badge&color=black"> <img alt="Static Badge" src="https://img.shields.io/badge/socket-brown?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/json-white?style=for-the-badge&logo=json&logoColor=black">
 
 ---
 
 ## Voice ChatGPT Telegram BOT
 🔗<a href="https://github.com/finger-to-the-sky/VoiceBOT">Link to the project</a>
+
+- Integrated the API OpenAI to utilize ChatGPT
+- Created the Telegram Bot to send responses to requests to the API
+- Set up a speech synthesizer to allow users to send requests to ChatGPT via voice messages
+
+### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/API-red?style=for-the-badge&logo=ChatGPT&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/chatgpt-gray?style=for-the-badge&logo=ChatGPT&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/gtts-teal?style=for-the-badge&logo=google&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/aiogram-blue?style=for-the-badge&logo=aiogram&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/pygame-purple?style=for-the-badge&logo=mutagen&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/speech_recognition-yellow?style=for-the-badge&logo=mutagen&logoColor=white">
+
+
+
+
+
+
+
+---
 
 ## Educational platform "Braniac LMS"
 🔗<a href="https://github.com/finger-to-the-sky/BraniacLMS">Link to the project</a>
