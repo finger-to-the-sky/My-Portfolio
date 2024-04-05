@@ -88,19 +88,23 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 
 ### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/API-red?style=for-the-badge&logo=ChatGPT&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/chatgpt-gray?style=for-the-badge&logo=ChatGPT&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/gtts-teal?style=for-the-badge&logo=google&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/aiogram-blue?style=for-the-badge&logo=aiogram&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/pygame-purple?style=for-the-badge&logo=mutagen&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/speech_recognition-yellow?style=for-the-badge&logo=mutagen&logoColor=white">
 
-
-
-
-
-
-
 ---
 
-## Educational platform "Braniac LMS"
-🔗<a href="https://github.com/finger-to-the-sky/BraniacLMS">Link to the project</a>
+<!-- ## Educational platform "Braniac LMS"
+🔗<a href="https://github.com/finger-to-the-sky/BraniacLMS">Link to the project</a>\*-->
 
 ## ZagMak Blog on the Flask
 🔗<a href="https://github.com/finger-to-the-sky/flask_project">Link to the project</a>
+
+- Configured user authentication and registration functionality
+- Developer CRUD operations for articles and tags
+- Implemented user access permissions
+- Templated the layout and configured controllers to display information
+- Set up Docker containerization for the project
+
+### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/Flask-EAEAEA?style=for-the-badge&logo=flask&logoColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/jinja2-green?style=for-the-badge&logo=jinja&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-69814A?style=for-the-badge&logo=sqlalchemy&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/alembic-red?style=for-the-badge&logo=mutagen&logoColor=white"> <img alt="Static Badge"  src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/postgres-57B0E2?style=for-the-badge&logo=postgresql&logoColor=white">
+
+---
 
 ## Django. GeekShop online store
 🔗<a href="https://github.com/finger-to-the-sky/geekshop-server">Link to the project</a>
