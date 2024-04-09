@@ -119,11 +119,11 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 
 --- 
 
-## Scrapy. Work.ua, Jobs.ua
+<!-- ## Scrapy. Work.ua, Jobs.ua
 🔗<a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Link to the project</a>
 
 ## Scrapy. Budmax.ua
-🔗<a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">Link to the project</a>
+🔗<a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_7">Link to the project</a> -->
 
 
 
