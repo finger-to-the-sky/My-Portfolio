@@ -53,7 +53,7 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 - Actively participated in making architectural decisions for the project
 
 ### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/django_rest_framework-black?style=for-the-badge&logo=django&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/postgres-57B0E2?style=for-the-badge&logo=postgresql&logoColor=white">  <img alt="Static Badge" src="https://img.shields.io/badge/html-E51E1E?style=for-the-badge&logo=html5&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-0B4376?style=for-the-badge&logo=CSS&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/javascript-646464?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFD056"> 
-<div><img alt="Static Badge" src="https://img.shields.io/badge/react-490A89?style=for-the-badge&logo=react&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/nextjs-E5B300?style=for-the-badge&logo=nextjs&logoColor=white"></div>
+<img alt="Static Badge" src="https://img.shields.io/badge/react-490A89?style=for-the-badge&logo=react&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/nextjs-E5B300?style=for-the-badge&logo=nextjs&logoColor=white"></div>
 
 ---
 
@@ -108,6 +108,16 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 
 ## Django. GeekShop online store
 🔗<a href="https://github.com/finger-to-the-sky/geekshop-server">Link to the project</a>
+
+- Realized authentication and registration users
+- Implemeted templating for HTML/CSS & Javascript code
+- Implemeted custom panel of administration site
+- CRUD operations with basket and products
+- Set up Docker containerization 
+
+### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img src='https://img.shields.io/badge/django-185316?style=for-the-badge&logo=django&logoColor=white'/> <img alt="Static Badge" src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&logoColor=white">
+
+--- 
 
 ## Scrapy. Work.ua, Jobs.ua
 🔗<a href="https://github.com/finger-to-the-sky/Methods_Parsing_Scraping/tree/master/Lesson_6">Link to the project</a>
