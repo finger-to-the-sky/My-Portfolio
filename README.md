@@ -21,8 +21,11 @@
 
 # About_me
 
-<p>I’m 25. I started to be interested in web development a very long time ago, but I didn’t study it seriously, and when I realized that I would like to do it more seriously, in November 2021 I entered the Faculty of Python Development at Geekbrains. </p>
-<p>Now I have completed my studies and continue my development in the field of backend development, improving my skills and learning new things</p>
+- I have over 2 years of experience in Backend development. 
+- I have experience in developing team projects using Agile and Scrum methodologies.
+- I’m capable of quickly learning and adapting to any challenges. 
+- I have a keen interest in finding solutions to improve, optimize, and automate code. 
+- I’m hardworking, communicative, and resilient to stress. 
 
 
 
