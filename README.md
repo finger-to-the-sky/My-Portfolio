@@ -17,7 +17,7 @@
 
 - [About me](#About_me)
 - [My stack](#Stack)
-- [My work](#Works)
+- [My works](#My-works)
 
 # About_me
 
@@ -45,7 +45,7 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 
 </div>
 
-# Works
+# My works
 
 
 ## "Language Test Dictionary". App for learning foreign words
