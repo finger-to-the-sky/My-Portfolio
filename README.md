@@ -63,7 +63,7 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 ### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/tkinter-blue?style=for-the-badge&logo=tkinter"> <img alt="Static Badge" src="https://img.shields.io/badge/pygame-purple?style=for-the-badge&logo=pygame"> <img alt="Static Badge" src="https://img.shields.io/badge/googletrans-white?style=for-the-badge&logo=google"> <img alt="Static Badge" src="https://img.shields.io/badge/gtts-green?style=for-the-badge&logo=google"> <img alt="Static Badge" src="https://img.shields.io/badge/pytest-yellow?style=for-the-badge&logo=pytest"> <img alt="Static Badge" src="https://img.shields.io/badge/keyboard-black?style=for-the-badge&logo=keyboard">
 
 
-
+---
 
 
 ## Team development project: "Microblog AntsProject"
