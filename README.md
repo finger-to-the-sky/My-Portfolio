@@ -48,7 +48,7 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 # Works
 
 
-## Pet Project: "Language Test Dictionary". App for learning foreign words
+## "Language Test Dictionary". App for learning foreign words
 🔗<a href="https://github.com/finger-to-the-sky/LanguageTestDictionary">Link to the project</a>
 
 - Developed a GUI using tkinter
