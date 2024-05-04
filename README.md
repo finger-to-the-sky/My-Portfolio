@@ -47,7 +47,26 @@ src="https://img.shields.io/badge/docker-306AFF?style=for-the-badge&logo=docker&
 
 # Works
 
-## Team development project "Microblog AntsProject"
+
+## Pet Project: "Language Test Dictionary". App for learning foreign words
+🔗<a href="https://github.com/finger-to-the-sky/LanguageTestDictionary">Link to the project</a>
+
+- Developed a GUI using tkinter
+- Implemented mechanisms for translating text and a voice assistant with accent switching.
+- Developed word testing modes, as well as their loading, loading from a file, loading from cache, editing, and deletion.
+- I also created a result table for summarizing test completions with the ability to add words to a special list.
+- Covered 95% of the code with tests using pytest.
+- I used PyInstaller and Inno Setup for releasing the product.
+
+
+
+### Stack: <img src='https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue'/> <img alt="Static Badge" src="https://img.shields.io/badge/tkinter-blue?style=for-the-badge&logo=tkinter"> <img alt="Static Badge" src="https://img.shields.io/badge/pygame-purple?style=for-the-badge&logo=pygame"> <img alt="Static Badge" src="https://img.shields.io/badge/googletrans-white?style=for-the-badge&logo=google"> <img alt="Static Badge" src="https://img.shields.io/badge/gtts-green?style=for-the-badge&logo=google"> <img alt="Static Badge" src="https://img.shields.io/badge/pytest-yellow?style=for-the-badge&logo=pytest"> <img alt="Static Badge" src="https://img.shields.io/badge/keyboard-black?style=for-the-badge&logo=keyboard">
+
+
+
+
+
+## Team development project: "Microblog AntsProject"
 🔗<a href="https://github.com/antsproject/Microblog">Link to the project</a>
 
 - Developed a support microservice
